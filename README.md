@@ -1,5 +1,7 @@
  <div align="center">
-
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Maroom Abdallah Banner"/>
+</div>
 # Maroom Abdallah
 
 ### AI Engineer | Full-Stack Developer
