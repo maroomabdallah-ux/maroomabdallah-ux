@@ -1,136 +1,65 @@
-<!-- HEADER -->
+
 <div align="center">
 
 <img src="./banner.png" width="100%" alt="Maroom Abdallah Banner"/>
 
 <br/>
 
-**AI Engineer · Full-Stack Developer · AI Agent Design**
+**AI Engineer | Full-Stack Developer**
 
 Building intelligent systems with thoughtful design.
 
 <br/>
 
-<a href="https://maroomabdallah-ux.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-F4E8E6?style=for-the-badge&logo=googlechrome&logoColor=59424E" />
-</a>
-<a href="https://github.com/maroomabdallah-ux">
-  <img src="https://img.shields.io/badge/GitHub-F4E8E6?style=for-the-badge&logo=github&logoColor=59424E" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-F4E8E6?style=for-the-badge&logo=googlechrome&logoColor=59424E)](https://maroomabdallah-ux.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-F4E8E6?style=for-the-badge&logo=github&logoColor=59424E)](https://github.com/maroomabdallah-ux)
 
 </div>
 
 <br/>
 
-<!-- ABOUT -->
-
-## ✦ About Me
+## 🌱 About Me
 
 I'm an AI Engineer and Full-Stack Developer passionate about building intelligent applications that combine clean design, solid engineering, and real-world impact.
 
 My current focus is on **AI Agent Design, RAG, MCP, and scalable backend systems.**
 
-- ✧ Building intelligent AI-powered applications
-- ✧ Designing secure and scalable backend systems
-- ✧ Exploring agentic AI and multi-agent architectures
-- ✧ Always learning and improving
-
-<br/>
-
-<!-- TECH STACK -->
-
-## ✦ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,ts,js&theme=light" />
-
-<br/><br/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql&theme=light" />
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=light" />
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=light" />
-
-<br/><br/>
-
-### Artificial Intelligence
-
-<img src="https://img.shields.io/badge/AI_Agents-F4E8E6?style=flat-square&logoColor=59424E" />
-<img src="https://img.shields.io/badge/RAG-F4E8E6?style=flat-square&logoColor=59424E" />
-<img src="https://img.shields.io/badge/MCP-F4E8E6?style=flat-square&logoColor=59424E" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-F4E8E6?style=flat-square&logoColor=59424E" />
-
-</div>
-
-<br/>
-
-<!-- PROJECTS -->
-
-## ✦ Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### Mini ERP
+💻
 
-A full-stack Enterprise Resource Planning system with an AI-powered assistant.
+**Build**
 
-**Tech:** Python · FastAPI · React · PostgreSQL
-
-[View Project →](https://github.com/maroomabdallah-ux/mini-erp-backend)
+AI-powered applications
 
 </td>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+⚙️
 
-### Shopping Cart
+**Design**
 
-A full-stack e-commerce application with a modern frontend and backend architecture.
-
-**Tech:** Python · React · JavaScript
-
-[View Backend →](https://github.com/maroomabdallah-ux/Shopping-cart-Backend)
+Scalable & secure systems
 
 </td>
-</tr>
+<td align="center" width="25%">
 
-<tr>
-<td width="50%" valign="top">
+💡
 
-### Portfolio Website
+**Explore**
 
-A personal portfolio showcasing my projects, skills, and professional journey.
-
-**Tech:** JavaScript · HTML · CSS
-
-[View Portfolio →](https://maroomabdallah-ux.github.io/)
+Agentic AI & new ideas
 
 </td>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+📖
 
-### AI Agent Design
+**Learn**
 
-Exploring intelligent agents, secure tool integration, and AI-powered workflows.
-
-**Focus:** RAG · MCP · Agentic AI
-
-[Explore My GitHub →](https://github.com/maroomabdallah-ux?tab=repositories)
+Continuously improving
 
 </td>
 </tr>
@@ -138,27 +67,170 @@ Exploring intelligent agents, secure tool integration, and AI-powered workflows.
 
 <br/>
 
-<!-- GITHUB STATS -->
+---
 
-## ✦ GitHub Activity
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,js&theme=light"/>
+
+</td>
+
+<td align="center" width="50%">
+
+**Backend & Databases**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql&theme=light"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**Frontend**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=light"/>
+
+</td>
+
+<td align="center">
+
+**Development Tools**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=light"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maroomabdallah-ux&show_icons=true&hide_border=true&bg_color=FFF9F8&title_color=59424E&text_color=59424E&icon_color=C69AAB" width="48%" />
+### Artificial Intelligence
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroomabdallah-ux&layout=compact&hide_border=true&bg_color=FFF9F8&title_color=59424E&text_color=59424E" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maroomabdallah-ux&bg_color=FFF9F8&color=59424E&line=C69AAB&point=59424E&area=true&hide_border=true" width="100%" />
+![AI Agents](https://img.shields.io/badge/AI_Agents-F4E8E6?style=flat-square&logoColor=59424E)
+![RAG](https://img.shields.io/badge/RAG-F4E8E6?style=flat-square&logoColor=59424E)
+![MCP](https://img.shields.io/badge/MCP-F4E8E6?style=flat-square&logoColor=59424E)
+![Multi Agent](https://img.shields.io/badge/Multi--Agent_Systems-F4E8E6?style=flat-square&logoColor=59424E)
 
 </div>
 
 <br/>
 
-<!-- CONTACT -->
+---
 
-## ✦ Let's Connect
+## 📁 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗄️ Mini ERP
+
+A full-stack ERP system with an AI-powered assistant.
+
+**Technologies**
+
+Python · FastAPI · React · PostgreSQL
+
+<br/>
+
+[View Project →](https://github.com/maroomabdallah-ux/mini-erp-backend)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 Shopping Cart
+
+A modern e-commerce application with a robust backend architecture.
+
+**Technologies**
+
+Python · React · JavaScript
+
+<br/>
+
+[View Project →](https://github.com/maroomabdallah-ux/Shopping-cart-Backend)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🖥️ Portfolio Website
+
+A personal portfolio showcasing my projects, skills, and professional journey.
+
+**Technologies**
+
+JavaScript · HTML · CSS
+
+<br/>
+
+[View Portfolio →](https://maroomabdallah-ux.github.io/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Agent Design
+
+Exploring intelligent agents, secure tool integration, and AI-powered workflows.
+
+**Focus**
+
+RAG · MCP · Agentic AI
+
+<br/>
+
+[Explore on GitHub →](https://github.com/maroomabdallah-ux?tab=repositories)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maroomabdallah-ux&show_icons=true&hide_border=true&bg_color=FFF9F8&title_color=59424E&text_color=59424E&icon_color=C69AAB&hide=stars" width="52%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroomabdallah-ux&layout=compact&hide_border=true&bg_color=FFF9F8&title_color=59424E&text_color=59424E" width="42%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maroomabdallah-ux&bg_color=FFF9F8&color=59424E&line=C69AAB&point=59424E&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 💌 Let's Connect
 
 <div align="center">
 
@@ -166,18 +238,14 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 
 <br/>
 
-<a href="https://github.com/maroomabdallah-ux">
-<img src="https://img.shields.io/badge/GitHub-F4E8E6?style=for-the-badge&logo=github&logoColor=59424E"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-F4E8E6?style=for-the-badge&logo=github&logoColor=59424E)](https://github.com/maroomabdallah-ux)
 
-<a href="https://maroomabdallah-ux.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-F4E8E6?style=for-the-badge&logo=googlechrome&logoColor=59424E"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-F4E8E6?style=for-the-badge&logo=googlechrome&logoColor=59424E)](https://maroomabdallah-ux.github.io/)
 
-<br/><br/>
+<br/>
 
 ---
 
-*“A better future is built by people who keep learning.”*
+*Building. Learning. Creating.*
 
 </div>
