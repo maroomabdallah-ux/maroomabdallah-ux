@@ -212,17 +212,27 @@ RAG · MCP · Agentic AI
 
 ---
 
-## 📈 GitHub Activity
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maroomabdallah-ux&show_icons=true&hide_border=true&bg_color=FFF9F8&title_color=59424E&text_color=59424E&icon_color=C69AAB&hide=stars" width="52%"/>
+### My Development Journey
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroomabdallah-ux&layout=compact&hide_border=true&bg_color=FFF9F8&title_color=59424E&text_color=59424E" width="42%"/>
+Building practical solutions through code, AI, and continuous learning.
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maroomabdallah-ux&bg_color=FFF9F8&color=59424E&line=C69AAB&point=59424E&area=true&hide_border=true" width="100%"/>
+| Development | Current Focus |
+|:---:|:---:|
+| 💻 Full-Stack Development | 🤖 AI Agent Design |
+| ⚙️ Backend Engineering | 🧠 RAG & MCP |
+| 🗄️ Database Design | 🚀 Intelligent Applications |
+
+<br/>
+
+[![Explore My Repositories](https://img.shields.io/badge/Explore_My_Repositories-F4E8E6?style=for-the-badge&logo=github&logoColor=59424E)](https://github.com/maroomabdallah-ux?tab=repositories)
 
 </div>
 
